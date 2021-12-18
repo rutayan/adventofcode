@@ -1,0 +1,1 @@
+add_executable(p0 puzzle0.cpp)

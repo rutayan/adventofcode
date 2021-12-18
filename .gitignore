@@ -1,0 +1,63 @@
+# General
+*~
+
+# C / C++
+*.d
+*.o
+*.so
+*.a
+
+# Python
+__pycache__/
+*$py.class
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# clangd
+*clangd/
+compile_commands.json
+
+# ccls
+.ccls-cache
+
+# Mac
+.DS_Store
+
+# IDEs
+**/.idea
+**/.vscode
+**/.vimrc
+**/*.srctrlbm
+**/*.srctrldb
+**/*.srctrlprj
+
+# Build directory
+build/
+
+# Doxygen config (linked)
+doxygen.config
